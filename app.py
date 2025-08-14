@@ -27,13 +27,13 @@ st.markdown("""
     margin: 1rem 0;
 }
 .question-container {
-    background-color: #ffffff;
+    background-color: #0E1117;
     padding: 2rem;
     border-radius: 10px;
-    border: 1px solid #e0e0e0;
     margin: 1rem 0;
 }
 .result-container {
+    color: #ffffff
     background-color: #e8f5e8;
     padding: 1.5rem;
     border-radius: 10px;
@@ -41,6 +41,7 @@ st.markdown("""
     margin: 1rem 0;
 }
 .error-container {
+    color: #ffffff;
     background-color: #ffeaea;
     padding: 1.5rem;
     border-radius: 10px;
